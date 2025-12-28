@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: >
+  If you use these supplementary materials in your research, please cite the
+  associated AIMM paper listed below.
+
+title: "AIMM: An AI-Driven Multimodal Framework for Detecting Social-Media-Influenced Stock Market Manipulation"
+
+authors:
+  - family-names: Neela
+    given-names: Sandeep
+
+year: 2025
+
+type: article
+
+identifiers:
+  - type: arxiv
+    value: 2512.16103
+
+repository-code: "https://arxiv.org/abs/2512.16103"
+
+url: "https://arxiv.org/abs/2512.16103"
+
+abstract: >
+  AIMM is an AI-driven multimodal framework designed to detect potential stock
+  market manipulation influenced by coordinated social media activity. The
+  framework integrates social signals with market microstructure features and
+  employs forward-walk evaluation for proactive risk monitoring.
+
+keywords:
+  - market manipulation
+  - financial machine learning
+  - multimodal learning
+  - social media analysis
+  - market microstructure
+  - risk monitoring
+
+license: "CC-BY-4.0"
